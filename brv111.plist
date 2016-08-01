@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://114.55.39.101:8087/download/BRV1.ipa</string>
+					<string>http://114.55.39.101:8087/download/111.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.mworking.douxing/string>
+				<string>cn.brv.brv/string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
