@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.10.254/download/brv.ipa</string>
+					<string>http://114.55.39.101:8087/download/BRV.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
